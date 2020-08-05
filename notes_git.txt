@@ -1,0 +1,24 @@
+git init: To make the naormal folder to git folder
+git status: To see 
+git add <File name>: To stage file or folder
+git commit -m"type a message": To commit
+
+GIT LOG:
+
+	git log: To view commits
+	git log -p: To view commits with to view what has been removed and add.
+	git log -p -any number: To view commits with what has been removed and add, a	nd number tak.
+	git log --stat: To view commits with to see what changes has done in each file.
+	git log --pretty=oneline: To view commit in one line.
+	git log --pretty=short: Tell the author and the message of the commit.
+	git log --pretty=full: Tell the author, who has commitedand the message of the commit.
+
+
+git restore --staged <file name>: To unstage file or folder.
+git checkout -b branch_name: Make a new branch
+git checkout branch_name: Go into the branch with has already made.
+git merge <brench name>: Merge two branches
+
+git branch -v: To see the the last commit in all branches you create.
+
+
