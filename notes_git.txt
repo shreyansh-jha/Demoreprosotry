@@ -20,5 +20,10 @@ git checkout branch_name: Go into the branch with has already made.
 git merge <brench name>: Merge two branches
 
 git branch -v: To see the the last commit in all branches you create.
+git branch --merged: To see the branches which has merged.
+git branch --no-merged: To see the branches which has not merged.
+git branch -d <BRANCH NAME>: Delect the branch which has merged.
+git branch -D <BRANCH NAME>: Delect th branch which has merged.
+ 
 
 
